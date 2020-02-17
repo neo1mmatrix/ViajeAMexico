@@ -1,0 +1,22 @@
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.exe.config
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.exe
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.pdb
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.xml
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.vbprojResolveAssemblyReference.cache
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.Form1.resources
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.Resources.resources
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.vbproj.GenerateResource.Cache
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.exe
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.xml
+c:\users\esteban laptop\documents\visual studio 2017\Projects\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.pdb
+D:\Documents\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.exe.config
+D:\Documents\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.exe
+D:\Documents\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.pdb
+D:\Documents\ViajeAMexico\ViajeAMexico\bin\Debug\ViajeAMexico.xml
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.vbprojResolveAssemblyReference.cache
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.Form1.resources
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.Resources.resources
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.vbproj.GenerateResource.Cache
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.exe
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.xml
+D:\Documents\ViajeAMexico\ViajeAMexico\obj\Debug\ViajeAMexico.pdb
